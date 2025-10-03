@@ -1,4 +1,4 @@
-# Lenita Lemos Website
+# Personal Website Portifolio
 ## Website's link:
 
 https://lenita13.github.io/Lenita/
