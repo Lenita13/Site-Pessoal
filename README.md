@@ -1,7 +1,7 @@
 # Personal Website Portifolio
 ## Website's link:
 
-[https://lenita13.github.io/LenitaLemos/]
+https://lenita13.github.io/LenitaLemos/
 
 
 ## Description
